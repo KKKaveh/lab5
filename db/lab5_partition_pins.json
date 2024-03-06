@@ -1,0 +1,37 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "lcd_sda",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_scl",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_cs",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rs",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rst",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_CLK1_50",
+					"strict" : false
+				},
+				{
+					"name" : "s1",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
